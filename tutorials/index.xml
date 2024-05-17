@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Zellij</title>
+    <link>https://zellij.dev/tutorials/</link>
+    <description>Recent content in Tutorials on Zellij</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zellij.dev/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Layouts for Personal Automation</title>
+      <link>https://zellij.dev/tutorials/layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zellij.dev/tutorials/layouts/</guid>
+      <description>This tutorial walks you through creating Zellij layouts to automate tasks and workflows.
+Layouts describe a pre-defined set of panes and tabs with different terminals, commands and plugins. They can be great to automate and formalize workflows and tasks.
+If you prefer a written tutorial, or would like to copy/paste the examples, scroll down past this video.
+    var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;</description>
+    </item>
+    
+    <item>
+      <title>Basic Development with Zellij</title>
+      <link>https://zellij.dev/tutorials/basic-functionality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zellij.dev/tutorials/basic-functionality/</guid>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/video/basic-development-screencast.mp4&#34;, mute: false, height: 540, width: 960 }); player.attachTo(playerElement);  This tutorial demonstrates some basic features of Zellij through a real world use-case of using the terminal for development.
+You need not be a terminal developer to benefit from this tutorial.
+The video screencast and the tutorial contain the same content.
+What we&amp;rsquo;ll cover  Opening New Panes Using Floating Panes Starting Command Panes from the CLI Editing Pane Scrollback with your own $EDITOR Do you like Zellij?</description>
+    </item>
+    
+    <item>
+      <title>The Zellij Filepicker</title>
+      <link>https://zellij.dev/tutorials/filepicker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zellij.dev/tutorials/filepicker/</guid>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/video/filepicker.mp4&#34;, mute: false, height: 540, width: 960 }); player.attachTo(playerElement);  This tutorial shows how to use the Zellij filepicker, also known as Strider.
+The video screencast and the tutorial contain the same content, with the video screencast also containing some concrete examples of the subject material for inspiration.
+Why use the Zellij filepicker? The Zellij filepicker is a built-in plugin that will allow you to dynamically traverse your filesystem, optionally using fuzzy finding to look for files or folders in a deterministic way.</description>
+    </item>
+    
+    <item>
+      <title>Session Management with Zellij</title>
+      <link>https://zellij.dev/tutorials/session-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zellij.dev/tutorials/session-management/</guid>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/video/session-management-welcome-screen.mp4&#34;, mute: false, height: 540, width: 960 }); player.attachTo(playerElement);  This tutorial shows how to use Zellij to manage sessions in the terminal.
+The video screencast and the tutorial contain the same content, with the video screencast also containing some concrete examples of the subject material for inspiration.
+Why use Zellij to manage sessions? Do you find yourself jumping between tasks a lot?</description>
+    </item>
+    
+  </channel>
+</rss>
